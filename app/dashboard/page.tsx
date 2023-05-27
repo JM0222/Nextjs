@@ -2,7 +2,7 @@ import React from 'react'
 import { Metadata } from 'next';
  
 export const metadata: Metadata = {
-  title: 'Test.js',
+  title: 'aaa.js',
 };
 
 // `app/dashboard/page.tsx` is the UI for the `/dashboard` URL
